@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋 My name is Artyom  ##  
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ayaskuld/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/AYaskuld">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>  
+<br/>
+I am studying QA in the Testing Course By Vadim Ksendzov. And here you can find the solution of practical tasks from the course.
 
 <!--
 **AYaskuld/Ayaskuld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

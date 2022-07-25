@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/ayaskuld/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/AYaskuld">
+  <a href="https://t.me/Ayaskuld">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>  

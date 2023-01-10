@@ -5,7 +5,7 @@
 [<img src='https://icon-library.com/images/telegram-icon-png/telegram-icon-png-19.jpg' alt='Telegram' height='40'>](https://t.me/Ayaskuld)
 
 
-I am studying QA in the Testing Course By Vadim Ksendzov. And here you can find the solution of practical tasks from the course.
+Here you can find the solution of practical tasks from the Vadim Ksendzov QA Engineer course. 
 
 Here is my progress:  
 [<img src='https://icon-library.com/images/terminal-icon/terminal-icon-6.jpg' alt='JS repo' height='40'>](https://github.com/AYaskuld/GitBash)

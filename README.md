@@ -1,9 +1,5 @@
 ## Hi there! 👋 My name is Artyom. ##  
 
-[<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='Linkedin' height='40'>](https://www.linkedin.com/in/ayaskuld/)
-[<img src='https://icon-library.com/images/gmail-icon/gmail-icon-5.jpg' alt='Gmail' height='40'>](mailto:qayaskuld@gmail.com)
-[<img src='https://icon-library.com/images/telegram-icon-png/telegram-icon-png-19.jpg' alt='Telegram' height='40'>](https://t.me/Ayaskuld)
-
 Here are collected materials, articles, tasks that I collect in the learning process.
 
 
